@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #form-container {
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="form-container">
+        <label>
+            Edges
+            <input type="number" data-bind="value: edges" />
+        </label>
+    </div>
+    <canvas data-bind="palindrome: $root" width="400" height="400"></canvas>
+    <script src="/Scripts/knockout-3.4.2.debug.js"></script>
+    <script src="/Scripts/palindrome.js"></script>
+</body>
+</html>

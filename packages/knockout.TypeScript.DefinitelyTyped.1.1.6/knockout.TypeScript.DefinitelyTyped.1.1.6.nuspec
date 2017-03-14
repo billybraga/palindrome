@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>knockout.TypeScript.DefinitelyTyped</id>
+    <version>1.1.6</version>
+    <title>knockout.TypeScript.DefinitelyTyped</title>
+    <authors>Jason Jarrett</authors>
+    <owners>Jason Jarrett</owners>
+    <licenseUrl>https://github.com/DefinitelyTyped/NugetAutomation/blob/master/LICENSE.MIT</licenseUrl>
+    <projectUrl>https://github.com/DefinitelyTyped/</projectUrl>
+    <iconUrl>http://www.gravatar.com/avatar/7226aa211e53b8d7447756fbc1f15e12?s=200</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>TypeScript Definitions (d.ts) for knockout. Generated based off the DefinitelyTyped repository [git commit: f5ab2df94e1aabf0fc6d783ad01c4c4671760627]. http://github.com/DefinitelyTyped</description>
+    <summary />
+    <copyright>Copyright 2013</copyright>
+    <tags>TypeScript JavaScript</tags>
+  </metadata>
+</package>
